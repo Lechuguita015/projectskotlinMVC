@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="message">Aun no tienes el permiso</string>
+    <string name="lat_and_long">lat: -12.00331 long: 10.56812</string>
+    <string name="main_location_permission">Tienes el permiso</string>
+    <string name="main_location_permission_denied">El permiso fue denegado</string>
+</resources>
