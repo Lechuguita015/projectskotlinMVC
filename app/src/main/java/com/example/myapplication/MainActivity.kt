@@ -16,7 +16,7 @@ import com.example.myapplication.databinding.ActivityMainBinding
 import com.google.android.gms.location.FusedLocationProviderClient
 import com.google.android.gms.location.LocationServices
 
-class MainActivity : AppCompatActivity() {
+class   MainActivity : AppCompatActivity() {
 //    private var tvMessage: TextView? = null
 //    private var tvLocation: TextView? = null
     var binding : ActivityMainBinding? = null
